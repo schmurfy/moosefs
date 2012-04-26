@@ -80,7 +80,7 @@
 //#define DELETE(x) (((x)>>4)&1)
 //#define SETGOAL(x,y) ((x)=((x)&0xF0)|((y)&0xF))
 //#define SETDELETE(x,y) ((x)=((x)&0xF)|((y)&0x10))
-#define DEFAULT_GOAL 1
+#define DEFAULT_GOAL 2
 #define DEFAULT_TRASHTIME 86400
 
 #define MAXFNAMELENG 255
